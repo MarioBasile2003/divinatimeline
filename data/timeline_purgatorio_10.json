@@ -1,0 +1,214 @@
+{
+  "title": {
+    "text": {
+      "headline": "Personaggi del Purgatorio",
+      "text": "Timeline dei personaggi citati nel Purgatorio della Divina Commedia."
+    }
+  },
+  "eras": [
+    {
+      "start_date": {
+        "year": -5000
+      },
+      "end_date": {
+        "year": -1000
+      },
+      "text": {
+        "headline": "Era Mitologica",
+        "text": "Collocazione simbolica per figure mitiche o leggendarie (es. Aglauro)."
+      }
+    }
+  ],
+  "events": [
+    {
+      "start_date": {
+      "year": 1210
+      },
+      "end_date": {
+        "year": 1276
+      },
+      "text": {
+        "headline": "Papa Adriano V",
+        "text": "Papa Adriano V, pontefice nel 1276, si pente in punto di morte e viene citato tra gli avari pentiti (Purgatorio XIX). <a href='https://it.wikipedia.org/wiki/Papa_Adriano_V' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XIX",
+      "group": "Purgatorio",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Pope_Adrian_V.jpg",
+        "caption": "Miniatura di Papa Adriano V"
+      },
+      "condizioneMorale": "avarizia (pentimento)"
+    },
+    {
+      "start_date": {
+        "year": -600
+      },
+      "end_date": {
+        "year": -400
+      },
+      "text": {
+        "headline": "Aglauro (figlia di Cecrope)",
+        "text": "Personaggio mitologico greco, citata tra gli esempi di invidia (Purgatorio XIV). <a href='https://it.wikipedia.org/wiki/Aglaulo_(figlia_di_Cecrope)' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XIV",
+      "group": "Purgatorio",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Aglauro_painting.jpg",
+        "caption": "Raffigurazione di Aglauro"
+      },
+      "condizioneMorale": "invidia (esempio mitologico)"
+    },
+    {
+      "start_date": {
+        "year": 1200
+      },
+      "end_date": {
+        "year": 1290
+      },
+      "text": {
+        "headline": "Orso degli Alberti",
+        "text": "Nobile fiorentino, citato tra le vittime di violenza (Purgatorio VI). <a href='https://it.wikipedia.org/wiki/Orso_degli_Alberti' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "VI",
+      "group": "Purgatorio",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Orso_degli_Alberti.jpg",
+        "caption": "Stemma della famiglia Alberti"
+      },
+      "condizioneMorale": "morte violenta"
+    },
+    {
+      "start_date": {
+        "year": 1250
+      },
+      "end_date": {
+        "year": 1308
+      },
+      "text": {
+        "headline": "Alberto I d'Asburgo",
+        "text": "Re dei Romani, citato come esempio di avarizia (Purgatorio XIX). <a href='https://it.wikipedia.org/wiki/Alberto_I_d%27Asburgo' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XIX",
+      "group": "Purgatorio",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Albert_I_of_Germany.jpg",
+        "caption": "Ritratto di Alberto I d'Asburgo"
+      },
+      "condizioneMorale": "avarizia"
+    },
+    {
+      "start_date": {
+        "year": 1210
+      },
+      "end_date": {
+        "year": 1268
+      },
+      "text": {
+        "headline": "Omberto Aldobrandeschi",
+        "text": "Nobile toscano, espia il peccato di superbia (Purgatorio XI). <a href='https://it.wikipedia.org/wiki/Omberto_Aldobrandeschi' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XI",
+      "group": "Purgatorio",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Omberto_Aldobrandeschi.jpg",
+        "caption": "Ritratto di Omberto Aldobrandeschi"
+      },
+      "condizioneMorale": "superbia"
+    },
+    {
+      "start_date": {
+        "year": 1215
+      },
+      "end_date": {
+        "year": 1279
+      },
+      "text": {
+        "headline": "Guglielmo Aldobrandeschi",
+        "text": "Nobile senese citato tra i superbi (Purgatorio XI). <a href='https://it.wikipedia.org/wiki/Guglielmo_Aldobrandeschi' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XI",
+      "group": "Purgatorio",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Guglielmo_Aldobrandeschi.jpg",
+        "caption": "Illustrazione di Guglielmo Aldobrandeschi"
+      },
+      "condizioneMorale": "superbia"
+    },
+    {
+      "start_date": {
+        "year": 939
+      },
+      "end_date": {
+        "year": 996
+      },
+      "text": {
+        "headline": "Ugo Capeto",
+        "text": "Capostipite dei re di Francia, citato tra gli avari pentiti (Purgatorio XX). <a href='https://it.wikipedia.org/wiki/Ugo_Capeto' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XX",
+      "group": "Purgatorio",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hugh_Capet.jpg",
+        "caption": "Ritratto di Ugo Capeto"
+      },
+      "condizioneMorale": "avarizia (pentimento)"
+    },
+    {
+      "start_date": {
+        "year": 1226
+      },
+      "end_date": {
+        "year": 1285
+      },
+      "text": {
+        "headline": "Carlo I d'Angiò",
+        "text": "Re di Sicilia e Napoli, menzionato per la sua ambizione e cupidigia (Purgatorio XX). <a href='https://it.wikipedia.org/wiki/Carlo_I_d%27Angiò' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XX",
+      "group": "Purgatorio",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Charles_I_of_Anjou.jpg",
+        "caption": "Miniatura di Carlo I d'Angiò"
+      },
+      "condizioneMorale": "avarizia"
+    },
+    {
+      "start_date": {
+        "year": 1250
+      },
+      "end_date": {
+        "year": 1300
+      },
+      "text": {
+        "headline": "Casella",
+        "text": "Amico musicista di Dante, si esibisce nel canto II del Purgatorio. <a href='https://it.wikipedia.org/wiki/Casella_(Divina_Commedia)' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "II",
+      "group": "Purgatorio",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Casella_Dante.jpg",
+        "caption": "Illustrazione di Casella"
+      },
+      "condizioneMorale": "amicizia e arte"
+    },
+    {
+      "start_date": {
+        "year": 1240
+      },
+      "end_date": {
+        "year": 1298
+      },
+      "text": {
+        "headline": "Jacopo del Cassero",
+        "text": "Politico e condottiero marchigiano, tra le anime che morirono di morte violenta (Purgatorio V). <a href='https://it.wikipedia.org/wiki/Jacopo_del_Cassero' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "V",
+      "group": "Purgatorio",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Jacopo_del_Cassero.jpg",
+        "caption": "Miniatura di Jacopo del Cassero"
+      },
+      "condizioneMorale": "morte violenta"
+    }
+  ]
+}

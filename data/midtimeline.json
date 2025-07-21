@@ -1,0 +1,250 @@
+{
+  "title": {
+    "text": {
+      "headline": "Personaggi della Divina Commedia",
+      "text": "Timeline dei personaggi citati nell'Inferno della Divina Commedia, organizzati in ere simboliche."
+    }
+  },
+  "eras": [
+    {
+      "start_date": {
+        "year": -10000
+      },
+      "end_date": {
+        "year": -5000
+      },
+      "text": {
+        "headline": "Era Primordiale",
+        "text": "Collocazione simbolica per entità eterne o archetipiche (es. Lucifero)."
+      }
+    },
+    {
+      "start_date": {
+        "year": -5000
+      },
+      "end_date": {
+        "year": -1000
+      },
+      "text": {
+        "headline": "Era Mitologica",
+        "text": "Collocazione simbolica per figure della mitologia classica (es. Achille, Minosse)."
+      }
+    },
+    {
+      "start_date": {
+        "year": -1000
+      },
+      "end_date": {
+        "year": 400
+      },
+      "text": {
+        "headline": "Epoca Classica",
+        "text": "Collocazione simbolica per figure chiave della mitologia classica"
+      }
+    },
+    {
+      "start_date": {
+        "year": 400
+      },
+      "end_date": {
+        "year": 1265
+      },
+      "text": {
+        "headline": "Epoca Medievale",
+        "text": "Personaggi storicamente accertati, conoscenze personali dell'Alighieri"
+      }
+    }
+  ],
+  "events": [
+    {
+      "start_date": {
+        "year": -5000
+      },
+      "end_date": {
+        "year": -1000
+      },
+      "text": {
+        "headline": "Achille",
+        "text": "Eroe greco della guerra di Troia. Citazione: “Achille romeo” (Inferno VIII, v. 38). <a href='https://it.wikipedia.org/wiki/Achille_(mitologia)' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "VIII",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Gustave_Dor%C3%A9_-_Inferno1.jpg",
+        "caption": "Gustave Doré – illustrazione classica"
+      },
+      "condizioneMorale": "ira (superbia guerriera)"
+    },
+    {
+      "start_date": {
+        "year": -5000
+      },
+      "end_date": {
+        "year": -1000
+      },
+      "text": {
+        "headline": "Epicuro",
+        "text": "Filosofo greco antico citato tra gli eretici dell'Inferno. <a href='https://it.wikipedia.org/wiki/Epicuro' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "X",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Epicurus_Louvre_Ma1092.jpg",
+        "caption": "Statua di Epicuro al Louvre"
+      },
+      "condizioneMorale": "eresia"
+    },
+    {
+      "start_date": {
+        "year": 1200
+      },
+      "end_date": {
+        "year": 1275
+      },
+      "text": {
+        "headline": "Michel Zanche",
+        "text": "Politico e giudice corrotto, collocato tra i barattieri. <a href='https://it.wikipedia.org/wiki/Michel_Zanche' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXII",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Michel_Zanche_Dore.jpg",
+        "caption": "Gustave Doré – Michel Zanche"
+      },
+      "condizioneMorale": "baratteria"
+    },
+    {
+      "start_date": {
+        "year": 1250
+      },
+      "end_date": {
+        "year": 1308
+      },
+      "text": {
+        "headline": "Alberigo dei Manfredi",
+        "text": "Traditore ospitale, condannato nella Caina. <a href='https://it.wikipedia.org/wiki/Alberigo_dei_Manfredi' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXXIII",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Alberigo_Dore.jpg",
+        "caption": "Gustave Doré – Alberigo dei Manfredi"
+      },
+      "condizioneMorale": "tradimento"
+    },
+    {
+      "start_date": {
+        "year": -5000
+      },
+      "end_date": {
+        "year": -1000
+      },
+      "text": {
+        "headline": "Eraclito",
+        "text": "Filosofo presocratico citato da Dante tra gli spiriti magni. <a href='https://it.wikipedia.org/wiki/Eraclito' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "IV",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Heraclitus_Musei_Capitolini_MC851.jpg",
+        "caption": "Statua di Eraclito"
+      },
+      "condizioneMorale": "virtù pagana (spiriti magni)"
+    },
+    {
+      "start_date": {
+        "year": 1200
+      },
+      "end_date": {
+        "year": 1280
+      },
+      "text": {
+        "headline": "Michele Scotto",
+        "text": "Astrologo scozzese menzionato tra i maghi e indovini. <a href='https://it.wikipedia.org/wiki/Michele_Scotto' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XX",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Michele_Scotto.jpg",
+        "caption": "Miniatura di Michele Scotto"
+      },
+      "condizioneMorale": "magia e arti occulte"
+    },
+    {
+      "start_date": {
+        "year": 1200
+      },
+      "end_date": {
+        "year": 1250
+      },
+      "text": {
+        "headline": "Alessandro",
+        "text": "Possibile riferimento ad Alessandro Magno tra i violenti. <a href='https://it.wikipedia.org/wiki/Alessandro_Magno' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XII",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Alexander_the_Great_mosaic.jpg",
+        "caption": "Mosaico di Alessandro Magno"
+      },
+      "condizioneMorale": "violenza"
+    },
+    {
+      "start_date": {
+        "year": -5000
+      },
+      "end_date": {
+        "year": -1000
+      },
+      "text": {
+        "headline": "Ettore",
+        "text": "Eroe troiano, collocato nel Limbo tra gli spiriti magni. <a href='https://it.wikipedia.org/wiki/Ettore' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "IV",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Hector_Bas-relief.jpg",
+        "caption": "Rilievo di Ettore"
+      },
+      "condizioneMorale": "virtù pagana (spiriti magni)"
+    },
+    {
+      "start_date": {
+        "year": -5000
+      },
+      "end_date": {
+        "year": -1000
+      },
+      "text": {
+        "headline": "Minosse",
+        "text": "Giudice infernale che assegna i dannati. <a href='https://it.wikipedia.org/wiki/Minosse' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "V",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Minos_Dore.jpg",
+        "caption": "Gustave Doré – Minosse"
+      },
+      "condizioneMorale": "giudizio / condanna"
+    },
+    {
+      "start_date": {
+        "year": 1250
+      },
+      "end_date": {
+        "year": 1290
+      },
+      "text": {
+        "headline": "Alessio Interminelli",
+        "text": "Cortigiano lussurioso, citato tra gli adulatori. <a href='https://it.wikipedia.org/wiki/Alessio_Interminelli' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XVIII",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Alessio_Interminelli.jpg",
+        "caption": "Miniatura di Alessio Interminelli"
+      },
+      "condizioneMorale": "adulazione"
+    }
+  ]
+}

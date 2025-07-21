@@ -1,0 +1,57 @@
+body {
+    background-color: #f8f9fa;
+    color: #212529;
+}
+
+.bg-ambra {
+    background-color: #ffbf00;
+}
+
+.text-ambra {
+    color: #b38600;
+}
+
+.btn-ambra {
+    background-color: #dba400;
+    color: white;
+}
+
+.btn-ambra:hover {
+    background-color: #b38600;
+    color: white;
+}
+
+.navbar-nav .nav-link:hover {
+    background-color: rgba(0, 0, 0, 0.1); /* Light gray background on hover */
+    border-radius: 5px; /* Slightly rounded edges */
+}
+
+footer {
+    background-color: #f1f1f1;
+}
+
+.breadcrumb {
+    /*font-family: 'Playfair Display', serif; !* Elegant serif font *!*/
+    background-color: transparent; /* No background for cleaner look */
+    font-size: 1rem; /* Moderate size */
+}
+
+.breadcrumb-item > a {
+    text-decoration: none; /* No underline for links */
+    color: #b38600; /* Amber color matching theme */
+    font-weight: 500; /* Slightly bolder for links */
+}
+
+.breadcrumb-item > a:hover {
+    text-decoration: underline; /* Underline on hover for clarity */
+    color: #dba400; /* Highlighted amber shade */
+}
+
+.breadcrumb-item.active {
+    color: #6c757d; /* Muted color for the active item */
+}
+
+.breadcrumb .separator {
+    margin: 0 5px;
+    color: #6c757d; /* Muted separator */
+}

@@ -1,0 +1,1309 @@
+{
+  "title": {
+    "text": {
+      "headline": "Personaggi dell'Inferno",
+      "text": "Timeline dei personaggi citati nell'Inferno della Divina Commedia, organizzati in ere simboliche."
+    }
+  },
+  "eras": [
+    {
+      "start_date": {
+        "year": -10000
+      },
+      "end_date": {
+        "year": -5000
+      },
+      "text": {
+        "headline": "Era Primordiale",
+        "text": "Collocazione simbolica per entità eterne o archetipiche (es. Lucifero)."
+      }
+    },
+    {
+      "start_date": {
+        "year": -5000
+      },
+      "end_date": {
+        "year": -3000
+      },
+      "text": {
+        "headline": "Era Mitologica",
+        "text": "Collocazione simbolica per figure della mitologia classica (es. Achille, Minosse)."
+      }
+    },
+    {
+      "start_date": {
+        "year": -3000
+      },
+      "end_date": {
+        "year": -1000
+      },
+      "text": {
+        "headline": "Epoca Antica",
+        "text": "Collocazione simbolica per figure chiave dell'epoca antica"
+      }
+    },
+    {
+      "start_date": {
+        "year": -1000
+      },
+      "end_date": {
+        "year": 400
+      },
+      "text": {
+        "headline": "Epoca Classica",
+        "text": "Collocazione simbolica per figure chiave dell'epoca classica"
+      }
+    },
+    {
+      "start_date": {
+        "year": 400
+      },
+      "end_date": {
+        "year": 1265
+      },
+      "text": {
+        "headline": "Epoca Medievale",
+        "text": "Personaggi storicamente accertati, conoscenze personali dell'Alighieri"
+      }
+    }
+  ],
+
+  "events": [
+    {
+      "start_date": {
+        "year": -1270
+      },
+      "end_date": {
+        "year": -1250
+      },
+      "text": {
+        "headline": "Achille",
+        "text": "Eroe greco della guerra di Troia. Citazione: “Achille romeo” (Inferno VIII, v. 38). <a href='https://it.wikipedia.org/wiki/Achille_(mitologia)' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "VIII",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Leon_Benouville_The_Wrath_of_Achilles.jpg",
+        "c+aption": "Gustave Doré – illustrazione classica"
+      },
+      "condizioneMorale": "ira (superbia guerriera)"
+    },
+    {
+      "start_date": {
+        "year": -341
+      },
+      "end_date": {
+        "year": -270
+      },
+      "text": {
+        "headline": "Epicuro",
+        "text": "Filosofo greco antico citato tra gli eretici dell'Inferno. <a href='https://it.wikipedia.org/wiki/Epicuro' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "X",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Epicurus_bust2.jpg",
+        "caption": "Statua di Epicuro al Louvre"
+      },
+      "condizioneMorale": "eresia"
+    },
+    {
+      "start_date": {
+        "year": 1200
+      },
+      "end_date": {
+        "year": 1275
+      },
+      "text": {
+        "headline": "Michele Zanche",
+        "text": "Politico e giudice corrotto, collocato tra i barattieri. <a href='https://it.wikipedia.org/wiki/Michel_Zanche' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXII",
+      "group": "Inferno",
+      "media": {
+        "url": "https://gw.geneanet.org/public/img/media/deposits/b2/b6/4154022/medium.jpg?t=1449686522",
+        "caption": "Gustave Doré – Michel Zanche"
+      },
+      "condizioneMorale": "baratteria"
+    },
+    {
+      "start_date": {
+        "year": 1250
+      },
+      "end_date": {
+        "year": 1308
+      },
+      "text": {
+        "headline": "Alberigo dei Manfredi",
+        "text": "Traditore ospitale, condannato nella Caina. <a href='https://it.wikipedia.org/wiki/Alberigo_dei_Manfredi' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXXIII",
+      "group": "Inferno",
+      "media": {
+        "url": "https://giorgiobaruzzi.altervista.org/blog/wp-content/uploads/2012/12/Frate_Alberigo.jpg",
+        "caption": "Gustave Doré – Alberigo dei Manfredi"
+      },
+      "condizioneMorale": "tradimento"
+    },
+    {
+      "start_date": {
+        "year": -535
+      },
+      "end_date": {
+        "year": -475
+      },
+      "text": {
+        "headline": "Eraclito",
+        "text": "Filosofo presocratico citato da Dante tra gli spiriti magni. <a href='https://it.wikipedia.org/wiki/Eraclito' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "IV",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Heraklit.jpg",
+        "caption": "Statua di Eraclito"
+      },
+      "condizioneMorale": "virtù pagana (spiriti magni)"
+    },
+    {
+      "start_date": {
+        "year": 1200
+      },
+      "end_date": {
+        "year": 1280
+      },
+      "text": {
+        "headline": "Michele Scotto",
+        "text": "Astrologo scozzese menzionato tra i maghi e indovini. <a href='https://it.wikipedia.org/wiki/Michele_Scotto' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XX",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Michele_Scotto.jpg",
+        "caption": "Miniatura di Michele Scotto"
+      },
+      "condizioneMorale": "magia e arti occulte"
+    },
+    {
+      "start_date": {
+        "year": -356
+      },
+      "end_date": {
+        "year": -323
+      },
+      "text": {
+        "headline": "Alessandro",
+        "text": "Possibile riferimento ad Alessandro Magno tra i violenti. <a href='https://it.wikipedia.org/wiki/Alessandro_Magno' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XII",
+      "group": "Inferno",
+      "media": {
+        "url": "https://www.focus.it/images/2024/07/25/alessandro-magno---mosaico_1020x680.jpg",
+        "caption": "Mosaico di Alessandro Magno"
+      },
+      "condizioneMorale": "violenza"
+    },
+    {
+      "start_date": {
+        "year": -1270
+      },
+      "end_date": {
+        "year": -1250
+      },
+      "text": {
+        "headline": "Ettore",
+        "text": "Eroe troiano, collocato nel Limbo tra gli spiriti magni. <a href='https://it.wikipedia.org/wiki/Ettore' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "IV",
+      "group": "Inferno",
+      "media": {
+        "url": "https://media.gettyimages.com/id/150620658/it/foto/unspecified-andromache-intercepting-hector-at-the-scaean-gate-by-fernando-castelli-oil-on.jpg?s=612x612&w=0&k=20&c=qdagg6HkuJT3rIul7q5qNYhVfCk9KdJwNHkxuRhP3e4=",
+        "caption": "Rilievo di Ettore"
+      },
+      "condizioneMorale": "virtù pagana (spiriti magni)"
+    },
+    {
+      "start_date": {
+        "year": -2500
+      },
+      "end_date": {
+        "year": -2300
+      },
+      "text": {
+        "headline": "Minosse",
+        "text": "Giudice infernale che assegna i dannati. <a href='https://it.wikipedia.org/wiki/Minosse' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "V",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Michelangelo-minos2.jpg",
+        "caption": "Gustave Doré – Minosse"
+      },
+      "condizioneMorale": "giudizio / condanna"
+    },
+    {
+      "start_date": {
+        "year": 1250
+      },
+      "end_date": {
+        "year": 1290
+      },
+      "text": {
+        "headline": "Alessio Interminelli",
+        "text": "Cortigiano lussurioso, citato tra gli adulatori. <a href='https://it.wikipedia.org/wiki/Alessio_Interminelli' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XVIII",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Alessio_Interminelli.jpg",
+        "caption": "Miniatura di Alessio Interminelli"
+      },
+      "condizioneMorale": "adulazione"
+    },
+    {
+      "start_date": {
+        "year": 600
+      },
+      "end_date": {
+        "year": 661
+      },
+      "text": {
+        "headline": "Alì",
+        "text": "Alì ibn Abi Talib, figura storica menzionata tra i seminatori di discordia. <a href='https://it.wikipedia.org/wiki/Alì_ibn_Abī_Tālib' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXVIII",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Ali_ibn_Abi_Talib.jpg",
+        "caption": "Ritratto di Alì ibn Abi Talib"
+      },
+      "condizioneMorale": "discordia"
+    },
+    {
+      "start_date": {
+        "year": -496
+      },
+      "end_date": {
+        "year": -428
+      },
+      "text": {
+        "headline": "Anassagora",
+        "text": "Filosofo presocratico tra gli spiriti magni. <a href='https://it.wikipedia.org/wiki/Anassagora' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "IV",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Anaxagoras_Bust.jpg",
+        "caption": "Busto di Anassagora"
+      },
+      "condizioneMorale": "virtù pagana (spiriti magni)"
+    },
+    {
+      "start_date": {
+        "year": 450
+      },
+      "end_date": {
+        "year": 498
+      },
+      "text": {
+        "headline": "Anastasio II, papa",
+        "text": "Papa Anastasio II, menzionato tra gli eretici. <a href='https://it.wikipedia.org/wiki/Papa_Anastasio_II' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XI",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Pope_Anastasius_II.jpg",
+        "caption": "Raffigurazione di Papa Anastasio II"
+      },
+      "condizioneMorale": "eresia"
+    },
+    {
+      "start_date": {
+        "year": 1200
+      },
+      "end_date": {
+        "year": 1296
+      },
+      "text": {
+        "headline": "Andrea de' Mozzi",
+        "text": "Vescovo fiorentino collocato tra i sodomiti. <a href='https://it.wikipedia.org/wiki/Andrea_de%27_Mozzi' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XV",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Andrea_de_Mozzi.jpg",
+        "caption": "Ritratto di Andrea de' Mozzi"
+      },
+      "condizioneMorale": "sodomia"
+    },
+    {
+      "start_date": {
+        "year": -5000
+      },
+      "end_date": {
+        "year": -4000
+      },
+      "text": {
+        "headline": "Anfiarao",
+        "text": "Indovino greco dell'epoca mitologica, tra i maghi e indovini. <a href='https://it.wikipedia.org/wiki/Anfiarao' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XX",
+      "group": "Inferno",
+      "media": {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQRFaUwO4lqXGRXaRMF4d0ciqml19Ueb0N6QBEEcvhordX677FdRpaaD0gnYeUP8CfuxY&usqp=CAU",
+        "caption": "Anfiarao raffigurato in un vaso antico"
+      },
+      "condizioneMorale": "magia e arti occulte"
+    },
+    {
+      "start_date": {
+        "year": -4000
+      },
+      "end_date": {
+        "year": -3900
+      },
+      "text": {
+        "headline": "Anna",
+        "text": "Figura biblica o mitica tra gli spiriti magni. <a href='https://it.wikipedia.org/wiki/Anna_(Bibbia)' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "IV",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Hannah_in_the_temple%2C_Samuel%27s_prayer_testing.jpg",
+        "caption": "Raffigurazione di Anna"
+      },
+      "condizioneMorale": "virtù pagana (spiriti magni)"
+    },
+    {
+      "start_date": {
+        "year": 1200
+      },
+      "end_date": {
+        "year": 1290
+      },
+      "text": {
+        "headline": "Anzian di S.Zita",
+        "text": "Funzionario corrotto di Lucca, tra i barattieri. <a href='https://it.wikipedia.org/wiki/Zita_da_Lucca' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXI",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Saint_Zita.jpg",
+        "caption": "Icona di Santa Zita"
+      },
+      "condizioneMorale": "baratteria"
+    },
+    {
+      "start_date": {
+        "year": -383
+      },
+      "end_date": {
+        "year": -322
+      },
+      "text": {
+        "headline": "Aristotele",
+        "text": "Filosofo greco tra gli spiriti magni. <a href='https://it.wikipedia.org/wiki/Aristotele' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "IV",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Aristotle_Altemps_Inv8575.jpg",
+        "caption": "Statua di Aristotele"
+      },
+      "condizioneMorale": "virtù pagana (spiriti magni)"
+    },
+    {
+      "start_date": {
+        "year": -5000
+      },
+      "end_date": {
+        "year": -1000
+      },
+      "text": {
+        "headline": "Arpie",
+        "text": "Creature mitologiche che tormentano i suicidi. <a href='https://it.wikipedia.org/wiki/Arpie' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XIII",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Harpy.jpg/500px-Harpy.jpg",
+        "caption": "Gustave Doré – Arpie"
+      },
+      "condizioneMorale": "punizione infernale (mitologia)"
+    },
+    {
+      "start_date": {
+        "year": -1000
+      },
+      "end_date": {
+        "year": -900
+      },
+      "text": {
+        "headline": "Arunte",
+        "text": "Indovino etrusco, tra i maghi e indovini. <a href='https://it.wikipedia.org/wiki/Arunte_(indovino)' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XX",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Aruns_Etruscan.jpg",
+        "caption": "Arunte in un'opera etrusca"
+      },
+      "condizioneMorale": "magia e arti occulte"
+    },
+    {
+      "start_date": {
+        "year": 1200
+      },
+      "end_date": {
+        "year": 1290
+      },
+      "text": {
+        "headline": "Asdente",
+        "text": "Calzolaio e indovino parmense, punito tra i maghi e indovini. <a href='https://it.wikipedia.org/wiki/Asdente' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XX",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Asdente.jpg",
+        "caption": "Miniatura di Asdente"
+      },
+      "condizioneMorale": "magia e arti occulte"
+    },
+    {
+      "start_date": {
+        "year": 400
+      },
+      "end_date": {
+        "year": 453
+      },
+      "text": {
+        "headline": "Attila",
+        "text": "Re degli Unni, punito tra i violenti contro il prossimo. <a href='https://it.wikipedia.org/wiki/Attila' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XII",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Attila_Doré.jpg",
+        "caption": "Gustave Doré – Attila"
+      },
+      "condizioneMorale": "violenza"
+    },
+    {
+      "start_date": {
+        "year": 1126
+      },
+      "end_date": {
+        "year": 1198
+      },
+      "text": {
+        "headline": "Averroè",
+        "text": "Filosofo e commentatore di Aristotele, citato nel Limbo. <a href='https://it.wikipedia.org/wiki/Averroè' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "IV",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Averroes_portrait.jpg",
+        "caption": "Ritratto di Averroè"
+      },
+      "condizioneMorale": "virtù pagana (spiriti magni)"
+    },
+    {
+      "start_date": {
+        "year": 980
+      },
+      "end_date": {
+        "year": 1037
+      },
+      "text": {
+        "headline": "Avicenna",
+        "text": "Filosofo e medico persiano, tra gli spiriti magni. <a href='https://it.wikipedia.org/wiki/Avicenna' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "IV",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Avicenna_portrait.jpg",
+        "caption": "Ritratto di Avicenna"
+      },
+      "condizioneMorale": "virtù pagana (spiriti magni)"
+    },
+    {
+      "start_date": {
+        "year": 1140
+      },
+      "end_date": {
+        "year": 1215
+      },
+      "text": {
+        "headline": "Bertram dal Bornio",
+        "text": "Troviero francese, punito tra i seminatori di discordia. <a href='https://it.wikipedia.org/wiki/Bertran_de_Born' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXVIII",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Bertran_de_Born.jpg",
+        "caption": "Miniatura di Bertran de Born"
+      },
+      "condizioneMorale": "discordia"
+    },
+    {
+      "start_date": {
+        "year": 1240
+      },
+      "end_date": {
+        "year": 1300
+      },
+      "text": {
+        "headline": "Bocca degli Abati",
+        "text": "Traditore della patria, punito nella Caina. <a href='https://it.wikipedia.org/wiki/Bocca_degli_Abati' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXXII",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bocca_degli_Abati.jpg",
+        "caption": "Illustrazione di Bocca degli Abati"
+      },
+      "condizioneMorale": "tradimento"
+    },
+    {
+      "start_date": {
+        "year": 1220
+      },
+      "end_date": {
+        "year": 1294
+      },
+      "text": {
+        "headline": "Branca Doria",
+        "text": "Nobile genovese, traditore dell'ospite. <a href='https://it.wikipedia.org/wiki/Branca_Doria' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXXIII",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Branca_Doria.jpg",
+        "caption": "Miniatura di Branca Doria"
+      },
+      "condizioneMorale": "tradimento"
+    },
+    {
+      "start_date": {
+        "year": 1220
+      },
+      "end_date": {
+        "year": 1294
+      },
+      "text": {
+        "headline": "Brunetto Latini",
+        "text": "Maestro e mentore di Dante, tra i sodomiti. <a href='https://it.wikipedia.org/wiki/Brunetto_Latini' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XV",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Brunetto_Latini_Doré.jpg",
+        "caption": "Gustave Doré – Brunetto Latini"
+      },
+      "condizioneMorale": "sodomia"
+    },
+    {
+      "start_date": {
+        "year": -79
+      },
+      "end_date": {
+        "year": -42
+      },
+      "text": {
+        "headline": "Bruto",
+        "text": "Uno degli uccisori di Cesare, punito nella Giudecca. <a href='https://it.wikipedia.org/wiki/Marco_Giunio_Bruto' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXXIV",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Brutus_portrait.jpg",
+        "caption": "Ritratto di Marco Giunio Bruto"
+      },
+      "condizioneMorale": "tradimento"
+    },
+    {
+      "start_date": {
+        "year": 1220
+      },
+      "end_date": {
+        "year": 1280
+      },
+      "text": {
+        "headline": "Buoso da Duera",
+        "text": "Condottiero e traditore ghibellino. <a href='https://it.wikipedia.org/wiki/Buoso_da_Duera' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXXII",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Buoso_Dorea.jpg",
+        "caption": "Illustrazione di Buoso da Duera"
+      },
+      "condizioneMorale": "tradimento"
+    },
+    {
+      "start_date": {
+        "year": -700
+      },
+      "end_date": {
+        "year": -0
+      },
+      "text": {
+        "headline": "Caco",
+        "text": "Gigante e ladro della mitologia romana. <a href='https://it.wikipedia.org/wiki/Caco_(mitologia)' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXV",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Cacus_statue.jpg",
+        "caption": "Statua di Caco"
+      },
+      "condizioneMorale": "furto"
+    },
+    {
+      "start_date": {
+        "year": 10
+      },
+      "end_date": {
+        "year": 36
+      },
+      "text": {
+        "headline": "Caifa",
+        "text": "Sommo sacerdote ebreo che condannò Gesù. <a href='https://it.wikipedia.org/wiki/Caifa' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXIII",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Caiaphas.jpg",
+        "caption": "Raffigurazione di Caifa"
+      },
+      "condizioneMorale": "ipocrisia"
+    },
+    {
+      "start_date": {
+        "year": 1230
+      },
+      "end_date": {
+        "year": 1295
+      },
+      "text": {
+        "headline": "Camicion de' Pazzi",
+        "text": "Traditore dei parenti, punito nella Caina. <a href='https://it.wikipedia.org/wiki/Camicion_de%27_Pazzi' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXXII",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Camicion_de_Pazzi.jpg",
+        "caption": "Illustrazione di Camicion de' Pazzi"
+      },
+      "condizioneMorale": "tradimento"
+    },
+    {
+      "start_date": {
+        "year": -500
+      },
+      "end_date": {
+        "year": -400
+      },
+      "text": {
+        "headline": "Camilla",
+        "text": "Guerriera mitologica, citata nel Limbo. <a href='https://it.wikipedia.org/wiki/Camilla_(mitologia)' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "IV",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Camilla_Virgil.jpg",
+        "caption": "Rappresentazione di Camilla"
+      },
+      "condizioneMorale": "virtù pagana (spiriti magni)"
+    },
+    {
+      "start_date": {
+        "year": -500
+      },
+      "end_date": {
+        "year": -400
+      },
+      "text": {
+        "headline": "Capaneo",
+        "text": "Gigante che sfida Giove, tra i bestemmiatori. <a href='https://it.wikipedia.org/wiki/Capaneo' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XIV",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Capaneus_Dore.jpg",
+        "caption": "Gustave Doré – Capaneo"
+      },
+      "condizioneMorale": "bestemmia"
+    },
+    {
+      "start_date": {
+        "year": 1250
+      },
+      "end_date": {
+        "year": 1293
+      },
+      "text": {
+        "headline": "Capocchio",
+        "text": "Alchimista eretico, tra i falsari. <a href='https://it.wikipedia.org/wiki/Capocchio_(alchimista)' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXIX",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Capocchio.jpg",
+        "caption": "Miniatura di Capocchio"
+      },
+      "condizioneMorale": "falsificazione"
+    },
+    {
+      "start_date": {
+        "year": -5000
+      },
+      "end_date": {
+        "year": -1000
+      },
+      "text": {
+        "headline": "Caronte",
+        "text": "Il traghettatore delle anime. <a href='https://it.wikipedia.org/wiki/Caronte_(mitologia)' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "III",
+      "group": "Inferno",
+      "media": {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStO7_s9BMt4k9uyFV3ssGYUtfsJsluRhorog&s",
+        "caption": "Gustave Doré – Caronte"
+      },
+      "condizioneMorale": "traghettatore infernale"
+    },
+    {
+      "start_date": {
+        "year": -80
+      },
+      "end_date": {
+        "year": -50
+      },
+      "text": {
+        "headline": "Cassio",
+        "text": "Uno dei congiurati contro Cesare, divorato da Lucifero. <a href='https://it.wikipedia.org/wiki/Gaio_Cassio_Longino' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXXIV",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Cassius_portrait.jpg",
+        "caption": "Ritratto di Cassio"
+      },
+      "condizioneMorale": "tradimento"
+    },
+    {
+      "start_date": {
+        "year": 1220
+      },
+      "end_date": {
+        "year": 1280
+      },
+      "text": {
+        "headline": "Catalano dei Malavolti",
+        "text": "Frate gaudente ipocrita, tra gli ipocriti. <a href='https://it.wikipedia.org/wiki/Catalano_de%27_Malavolti' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXIII",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Catalano_Malavolti.jpg",
+        "caption": "Miniatura di Catalano dei Malavolti"
+      },
+      "condizioneMorale": "ipocrisia"
+    },
+    {
+      "start_date": {
+        "year": 1200
+      },
+      "end_date": {
+        "year": 1260
+      },
+      "text": {
+        "headline": "Cavalcante de' Cavalcanti",
+        "text": "Padre di Guido Cavalcanti, tra gli eretici. <a href='https://it.wikipedia.org/wiki/Cavalcante_de%27_Cavalcanti' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "X",
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cavalcante_Cavalcanti.jpg",
+        "caption": "Illustrazione di Cavalcante"
+      },
+      "condizioneMorale": "eresia"
+    },
+    {
+      "start_date": {
+        "year": 1210
+      },
+      "end_date": {
+        "year": 1276
+      },
+      "text": {
+        "headline": "Papa Adriano V",
+        "text": "Papa Adriano V, pontefice nel 1276, si pente in punto di morte e viene citato tra gli avari pentiti (Purgatorio XIX). <a href='https://it.wikipedia.org/wiki/Papa_Adriano_V' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XIX",
+      "group": "Purgatorio",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Pope_Adrian_V.jpg",
+        "caption": "Miniatura di Papa Adriano V"
+      },
+      "condizioneMorale": "avarizia (pentimento)"
+    },
+    {
+      "start_date": {
+        "year": -600
+      },
+      "end_date": {
+        "year": -400
+      },
+      "text": {
+        "headline": "Aglauro (figlia di Cecrope)",
+        "text": "Personaggio mitologico greco, citata tra gli esempi di invidia (Purgatorio XIV). <a href='https://it.wikipedia.org/wiki/Aglaulo_(figlia_di_Cecrope)' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XIV",
+      "group": "Purgatorio",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Aglauro_painting.jpg",
+        "caption": "Raffigurazione di Aglauro"
+      },
+      "condizioneMorale": "invidia (esempio mitologico)"
+    },
+    {
+      "start_date": {
+        "year": 1200
+      },
+      "end_date": {
+        "year": 1290
+      },
+      "text": {
+        "headline": "Orso degli Alberti",
+        "text": "Nobile fiorentino, citato tra le vittime di violenza (Purgatorio VI). <a href='https://it.wikipedia.org/wiki/Orso_degli_Alberti' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "VI",
+      "group": "Purgatorio",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Orso_degli_Alberti.jpg",
+        "caption": "Stemma della famiglia Alberti"
+      },
+      "condizioneMorale": "morte violenta"
+    },
+    {
+      "start_date": {
+        "year": 1250
+      },
+      "end_date": {
+        "year": 1308
+      },
+      "text": {
+        "headline": "Alberto I d'Asburgo",
+        "text": "Re dei Romani, citato come esempio di avarizia (Purgatorio XIX). <a href='https://it.wikipedia.org/wiki/Alberto_I_d%27Asburgo' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XIX",
+      "group": "Purgatorio",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Albert_I_of_Germany.jpg",
+        "caption": "Ritratto di Alberto I d'Asburgo"
+      },
+      "condizioneMorale": "avarizia"
+    },
+    {
+      "start_date": {
+        "year": 1210
+      },
+      "end_date": {
+        "year": 1268
+      },
+      "text": {
+        "headline": "Omberto Aldobrandeschi",
+        "text": "Nobile toscano, espia il peccato di superbia (Purgatorio XI). <a href='https://it.wikipedia.org/wiki/Omberto_Aldobrandeschi' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XI",
+      "group": "Purgatorio",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Omberto_Aldobrandeschi.jpg",
+        "caption": "Ritratto di Omberto Aldobrandeschi"
+      },
+      "condizioneMorale": "superbia"
+    },
+    {
+      "start_date": {
+        "year": 1215
+      },
+      "end_date": {
+        "year": 1279
+      },
+      "text": {
+        "headline": "Guglielmo Aldobrandeschi",
+        "text": "Nobile senese citato tra i superbi (Purgatorio XI). <a href='https://it.wikipedia.org/wiki/Guglielmo_Aldobrandeschi' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XI",
+      "group": "Purgatorio",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Guglielmo_Aldobrandeschi.jpg",
+        "caption": "Illustrazione di Guglielmo Aldobrandeschi"
+      },
+      "condizioneMorale": "superbia"
+    },
+    {
+      "start_date": {
+        "year": 939
+      },
+      "end_date": {
+        "year": 996
+      },
+      "text": {
+        "headline": "Ugo Capeto",
+        "text": "Capostipite dei re di Francia, citato tra gli avari pentiti (Purgatorio XX). <a href='https://it.wikipedia.org/wiki/Ugo_Capeto' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XX",
+      "group": "Purgatorio",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hugh_Capet.jpg",
+        "caption": "Ritratto di Ugo Capeto"
+      },
+      "condizioneMorale": "avarizia (pentimento)"
+    },
+    {
+      "start_date": {
+        "year": 1226
+      },
+      "end_date": {
+        "year": 1285
+      },
+      "text": {
+        "headline": "Carlo I d'Angiò",
+        "text": "Re di Sicilia e Napoli, menzionato per la sua ambizione e cupidigia (Purgatorio XX). <a href='https://it.wikipedia.org/wiki/Carlo_I_d%27Angiò' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XX",
+      "group": "Purgatorio",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Charles_I_of_Anjou.jpg",
+        "caption": "Miniatura di Carlo I d'Angiò"
+      },
+      "condizioneMorale": "avarizia"
+    },
+    {
+      "start_date": {
+        "year": 1250
+      },
+      "end_date": {
+        "year": 1300
+      },
+      "text": {
+        "headline": "Casella",
+        "text": "Amico musicista di Dante, si esibisce nel canto II del Purgatorio. <a href='https://it.wikipedia.org/wiki/Casella_(Divina_Commedia)' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "II",
+      "group": "Purgatorio",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Casella_Dante.jpg",
+        "caption": "Illustrazione di Casella"
+      },
+      "condizioneMorale": "amicizia e arte"
+    },
+    {
+      "start_date": {
+        "year": 1240
+      },
+      "end_date": {
+        "year": 1298
+      },
+      "text": {
+        "headline": "Jacopo del Cassero",
+        "text": "Politico e condottiero marchigiano, tra le anime che morirono di morte violenta (Purgatorio V). <a href='https://it.wikipedia.org/wiki/Jacopo_del_Cassero' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "V",
+      "group": "Purgatorio",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Jacopo_del_Cassero.jpg",
+        "caption": "Miniatura di Jacopo del Cassero"
+      },
+      "condizioneMorale": "morte violenta"
+    },
+
+    {
+      "start_date": {
+        "year": 1200
+      },
+      "end_date": {
+        "year": 1271
+      },
+      "text": {
+        "headline": "Enrico da Susa",
+        "text": "Cardinale e giurista, citato nel cielo di Giove tra gli spiriti giusti (Paradiso XX). <a href='https://it.wikipedia.org/wiki/Enrico_da_Susa' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XX",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Henricus_de_Susa.jpg",
+        "caption": "Miniatura di Enrico da Susa"
+      },
+      "condizioneMorale": "giustizia"
+    },
+    {
+      "start_date": {
+        "year": -5000
+      },
+      "end_date": {
+        "year": -3000
+      },
+      "text": {
+        "headline": "Eva",
+        "text": "Progenitrice dell'umanità, citata tra le anime beate (Paradiso XXXII). <a href='https://it.wikipedia.org/wiki/Eva' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXXII",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://www.meisterdrucke.it/kunstwerke/1260px/Unknown_Artist_-_Bible_of_Royaumont_Old_Testament_Punishment_of_Adam_God_drives_Adam_and_Eve_out_-_%28MeisterDrucke-929317%29.jpg",
+        "caption": "Eva nell'Eden"
+      },
+      "condizioneMorale": "innocenza originaria"
+    },
+    {
+      "start_date": {
+        "year": -700
+      },
+      "end_date": {
+        "year": -650
+      },
+      "text": {
+        "headline": "Ezechia",
+        "text": "Re biblico di Giuda, citato tra i giusti (Paradiso XX). <a href='https://it.wikipedia.org/wiki/Ezechia' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XX",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Hezekiah_Prayer.jpg",
+        "caption": "Ezechia in preghiera"
+      },
+      "condizioneMorale": "giustizia biblica"
+    },
+    {
+      "start_date": {
+        "year": 1150
+      },
+      "end_date": {
+        "year": 1231
+      },
+      "text": {
+        "headline": "Folchetto di Marsiglia",
+        "text": "Vescovo e poeta, citato tra gli spiriti amanti (Paradiso IX). <a href='https://it.wikipedia.org/wiki/Folchetto_di_Marsiglia' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "IX",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Folquet_de_Marseille.jpg",
+        "caption": "Miniatura di Folchetto"
+      },
+      "condizioneMorale": "amore spirituale"
+    },
+    {
+      "start_date": {
+        "year": 1181
+      },
+      "end_date": {
+        "year": 1226
+      },
+      "text": {
+        "headline": "Francesco d'Assisi",
+        "text": "Fondatore dell'ordine francescano, elogiato da Dante (Paradiso XI). <a href='https://it.wikipedia.org/wiki/Francesco_d%27Assisi' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XI",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/St_Francis_of_Assisi.jpg",
+        "caption": "San Francesco d'Assisi"
+      },
+      "condizioneMorale": "povertà e santità"
+    },
+    {
+      "start_date": {
+        "year": -5000
+      },
+      "end_date": {
+        "year": -1000
+      },
+      "text": {
+        "headline": "Gabriele (arcangelo)",
+        "text": "Arcangelo messaggero di Dio, menzionato tra le figure angeliche (Paradiso XXIII). <a href='https://it.wikipedia.org/wiki/Arcangelo_Gabriele' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXIII",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gabriele.jpg/500px-Gabriele.jpg",
+        "caption": "Icona dell'arcangelo Gabriele"
+      },
+      "condizioneMorale": "virtù angelica"
+    },
+    {
+      "start_date": {
+        "year": 0
+      },
+      "end_date": {
+        "year": 33
+      },
+      "text": {
+        "headline": "Gesù",
+        "text": "Cristo Redentore, figura centrale del Paradiso. <a href='https://it.wikipedia.org/wiki/Gesù' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXXIII",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Jesus_Christ_Pantocrator.jpg",
+        "caption": "Cristo Pantocratore"
+      },
+      "condizioneMorale": "divinità"
+    },
+    {
+      "start_date": {
+        "year": 5
+      },
+      "end_date": {
+        "year": 44
+      },
+      "text": {
+        "headline": "Giacomo il Maggiore",
+        "text": "Apostolo e martire, citato tra gli spiriti contemplativi (Paradiso XXV). <a href='https://it.wikipedia.org/wiki/Giacomo_il_Maggiore' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXV",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/St_James_the_Greater.jpg",
+        "caption": "San Giacomo il Maggiore"
+      },
+      "condizioneMorale": "fede e martirio"
+    },
+    {
+      "start_date": {
+        "year": 1
+      },
+      "end_date": {
+        "year": 62
+      },
+      "text": {
+        "headline": "Giacomo il Minore",
+        "text": "Apostolo e martire, presente tra le anime sante (Paradiso XXV). <a href='https://it.wikipedia.org/wiki/Giacomo_il_Minore' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXV",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/St_James_the_Less.jpg",
+        "caption": "San Giacomo il Minore"
+      },
+      "condizioneMorale": "fede e martirio"
+    },
+    {
+      "start_date": {
+        "year": -50
+      },
+      "end_date": {
+        "year": 0
+      },
+      "text": {
+        "headline": "Gioacchino (padre di Maria)",
+        "text": "Padre della Vergine Maria, tra i beati (Paradiso XXXII). <a href='https://it.wikipedia.org/wiki/Gioacchino_(padre_di_Maria)' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXXII",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/St_Joachim.jpg",
+        "caption": "San Gioacchino"
+      },
+      "condizioneMorale": "santità"
+    },
+    {
+      "start_date": {
+        "year": -1200
+      },
+      "end_date": {
+        "year": -1140
+      },
+      "text": {
+        "headline": "Giosuè (condottiero biblico)",
+        "text": "Condottiero d'Israele, citato tra gli spiriti combattenti (Paradiso XVIII). <a href='https://it.wikipedia.org/wiki/Giosuè' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XVIII",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Joshua_Battle.jpg",
+        "caption": "Giosuè in battaglia"
+      },
+      "condizioneMorale": "virtù militare"
+    },
+    {
+      "start_date": {
+        "year": 1200
+      },
+      "end_date": {
+        "year": 1255
+      },
+      "text": {
+        "headline": "Giovanna d'Aza",
+        "text": "Madre di San Domenico, citata nel Paradiso XII. <a href='https://it.wikipedia.org/wiki/Giovanna_d%27Aza' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XII",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Joanna_of_Aza.jpg",
+        "caption": "Giovanna d'Aza"
+      },
+      "condizioneMorale": "santità"
+    },
+    {
+      "start_date": {
+        "year": 1215
+      },
+      "end_date": {
+        "year": 1277
+      },
+      "text": {
+        "headline": "Papa Giovanni XXI",
+        "text": "Pontefice e filosofo, citato nel Paradiso XII. <a href='https://it.wikipedia.org/wiki/Papa_Giovanni_XXI' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XII",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Pope_John_XXI.jpg",
+        "caption": "Papa Giovanni XXI"
+      },
+      "condizioneMorale": "sapienza e fede"
+    },
+    {
+      "start_date": {
+        "year": 1244
+      },
+      "end_date": {
+        "year": 1334
+      },
+      "text": {
+        "headline": "Papa Giovanni XXII",
+        "text": "Pontefice, menzionato nel contesto del Paradiso XXVII. <a href='https://it.wikipedia.org/wiki/Papa_Giovanni_XXII' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXVII",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Pope_John_XXII.jpg",
+        "caption": "Papa Giovanni XXII"
+      },
+      "condizioneMorale": "sapienza e fede"
+    },
+    {
+      "start_date": {
+        "year": 6
+      },
+      "end_date": {
+        "year": 100
+      },
+      "text": {
+        "headline": "Giovanni (evangelista)",
+        "text": "Apostolo ed evangelista, citato nel Paradiso XXV. <a href='https://it.wikipedia.org/wiki/Giovanni_(evangelista)' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXV",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/St_John_the_Evangelist.jpg",
+        "caption": "San Giovanni Evangelista"
+      },
+      "condizioneMorale": "fede e sapienza"
+    }
+  ]
+}

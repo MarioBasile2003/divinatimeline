@@ -1,0 +1,309 @@
+{
+  "title": {
+    "text": {
+      "headline": "Personaggi del Paradiso",
+      "text": "Timeline dei personaggi citati nel Paradiso della Divina Commedia."
+    }
+  },
+  "eras": [
+    {
+      "start_date": {
+        "year": -5000
+      },
+      "end_date": {
+        "year": 0
+      },
+      "text": {
+        "headline": "Era Biblica e Mitologica",
+        "text": "Collocazione simbolica per figure bibliche e angeliche."
+      }
+    }
+  ],
+  "events": [
+    {
+      "start_date": {
+        "year": 1200
+      },
+      "end_date": {
+        "year": 1271
+      },
+      "text": {
+        "headline": "Enrico da Susa",
+        "text": "Cardinale e giurista, citato nel cielo di Giove tra gli spiriti giusti (Paradiso XX). <a href='https://it.wikipedia.org/wiki/Enrico_da_Susa' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XX",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Henricus_de_Susa.jpg",
+        "caption": "Miniatura di Enrico da Susa"
+      },
+      "condizioneMorale": "giustizia"
+    },
+    {
+      "start_date": {
+        "year": -5000
+      },
+      "end_date": {
+        "year": -3000
+      },
+      "text": {
+        "headline": "Eva",
+        "text": "Progenitrice dell'umanità, citata tra le anime beate (Paradiso XXXII). <a href='https://it.wikipedia.org/wiki/Eva' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXXII",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Eve_in_Paradise.jpg",
+        "caption": "Eva nell'Eden"
+      },
+      "condizioneMorale": "innocenza originaria"
+    },
+    {
+      "start_date": {
+        "year": -700
+      },
+      "end_date": {
+        "year": -650
+      },
+      "text": {
+        "headline": "Ezechia",
+        "text": "Re biblico di Giuda, citato tra i giusti (Paradiso XX). <a href='https://it.wikipedia.org/wiki/Ezechia' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XX",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Hezekiah_Prayer.jpg",
+        "caption": "Ezechia in preghiera"
+      },
+      "condizioneMorale": "giustizia biblica"
+    },
+    {
+      "start_date": {
+        "year": 1150
+      },
+      "end_date": {
+        "year": 1231
+      },
+      "text": {
+        "headline": "Folchetto di Marsiglia",
+        "text": "Vescovo e poeta, citato tra gli spiriti amanti (Paradiso IX). <a href='https://it.wikipedia.org/wiki/Folchetto_di_Marsiglia' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "IX",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Folquet_de_Marseille.jpg",
+        "caption": "Miniatura di Folchetto"
+      },
+      "condizioneMorale": "amore spirituale"
+    },
+    {
+      "start_date": {
+        "year": 1181
+      },
+      "end_date": {
+        "year": 1226
+      },
+      "text": {
+        "headline": "Francesco d'Assisi",
+        "text": "Fondatore dell'ordine francescano, elogiato da Dante (Paradiso XI). <a href='https://it.wikipedia.org/wiki/Francesco_d%27Assisi' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XI",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/St_Francis_of_Assisi.jpg",
+        "caption": "San Francesco d'Assisi"
+      },
+      "condizioneMorale": "povertà e santità"
+    },
+    {
+      "start_date": {
+        "year": -5000
+      },
+      "end_date": {
+        "year": -1000
+      },
+      "text": {
+        "headline": "Gabriele (arcangelo)",
+        "text": "Arcangelo messaggero di Dio, menzionato tra le figure angeliche (Paradiso XXIII). <a href='https://it.wikipedia.org/wiki/Arcangelo_Gabriele' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXIII",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Archangel_Gabriel.jpg",
+        "caption": "Icona dell'arcangelo Gabriele"
+      },
+      "condizioneMorale": "virtù angelica"
+    },
+    {
+      "start_date": {
+        "year": 0
+      },
+      "end_date": {
+        "year": 33
+      },
+      "text": {
+        "headline": "Gesù",
+        "text": "Cristo Redentore, figura centrale del Paradiso. <a href='https://it.wikipedia.org/wiki/Gesù' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXXIII",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Jesus_Christ_Pantocrator.jpg",
+        "caption": "Cristo Pantocratore"
+      },
+      "condizioneMorale": "divinità"
+    },
+    {
+      "start_date": {
+        "year": 5
+      },
+      "end_date": {
+        "year": 44
+      },
+      "text": {
+        "headline": "Giacomo il Maggiore",
+        "text": "Apostolo e martire, citato tra gli spiriti contemplativi (Paradiso XXV). <a href='https://it.wikipedia.org/wiki/Giacomo_il_Maggiore' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXV",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/St_James_the_Greater.jpg",
+        "caption": "San Giacomo il Maggiore"
+      },
+      "condizioneMorale": "fede e martirio"
+    },
+    {
+      "start_date": {
+        "year": 1
+      },
+      "end_date": {
+        "year": 62
+      },
+      "text": {
+        "headline": "Giacomo il Minore",
+        "text": "Apostolo e martire, presente tra le anime sante (Paradiso XXV). <a href='https://it.wikipedia.org/wiki/Giacomo_il_Minore' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXV",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/St_James_the_Less.jpg",
+        "caption": "San Giacomo il Minore"
+      },
+      "condizioneMorale": "fede e martirio"
+    },
+    {
+      "start_date": {
+        "year": -50
+      },
+      "end_date": {
+        "year": 0
+      },
+      "text": {
+        "headline": "Gioacchino (padre di Maria)",
+        "text": "Padre della Vergine Maria, tra i beati (Paradiso XXXII). <a href='https://it.wikipedia.org/wiki/Gioacchino_(padre_di_Maria)' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXXII",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/St_Joachim.jpg",
+        "caption": "San Gioacchino"
+      },
+      "condizioneMorale": "santità"
+    },
+    {
+      "start_date": {
+        "year": -1200
+      },
+      "end_date": {
+        "year": -1140
+      },
+      "text": {
+        "headline": "Giosuè (condottiero biblico)",
+        "text": "Condottiero d'Israele, citato tra gli spiriti combattenti (Paradiso XVIII). <a href='https://it.wikipedia.org/wiki/Giosuè' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XVIII",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Joshua_Battle.jpg",
+        "caption": "Giosuè in battaglia"
+      },
+      "condizioneMorale": "virtù militare"
+    },
+    {
+      "start_date": {
+        "year": 1200
+      },
+      "end_date": {
+        "year": 1255
+      },
+      "text": {
+        "headline": "Giovanna d'Aza",
+        "text": "Madre di San Domenico, citata nel Paradiso XII. <a href='https://it.wikipedia.org/wiki/Giovanna_d%27Aza' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XII",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Joanna_of_Aza.jpg",
+        "caption": "Giovanna d'Aza"
+      },
+      "condizioneMorale": "santità"
+    },
+    {
+      "start_date": {
+        "year": 1215
+      },
+      "end_date": {
+        "year": 1277
+      },
+      "text": {
+        "headline": "Papa Giovanni XXI",
+        "text": "Pontefice e filosofo, citato nel Paradiso XII. <a href='https://it.wikipedia.org/wiki/Papa_Giovanni_XXI' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XII",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Pope_John_XXI.jpg",
+        "caption": "Papa Giovanni XXI"
+      },
+      "condizioneMorale": "sapienza e fede"
+    },
+    {
+      "start_date": {
+        "year": 1244
+      },
+      "end_date": {
+        "year": 1334
+      },
+      "text": {
+        "headline": "Papa Giovanni XXII",
+        "text": "Pontefice, menzionato nel contesto del Paradiso XXVII. <a href='https://it.wikipedia.org/wiki/Papa_Giovanni_XXII' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXVII",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Pope_John_XXII.jpg",
+        "caption": "Papa Giovanni XXII"
+      },
+      "condizioneMorale": "sapienza e fede"
+    },
+    {
+      "start_date": {
+        "year": 6
+      },
+      "end_date": {
+        "year": 100
+      },
+      "text": {
+        "headline": "Giovanni (evangelista)",
+        "text": "Apostolo ed evangelista, citato nel Paradiso XXV. <a href='https://it.wikipedia.org/wiki/Giovanni_(evangelista)' target='_blank'>Approfondisci</a>"
+      },
+      "canto": "XXV",
+      "group": "Paradiso",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/St_John_the_Evangelist.jpg",
+        "caption": "San Giovanni Evangelista"
+      },
+      "condizioneMorale": "fede e sapienza"
+    }
+  ]
+}

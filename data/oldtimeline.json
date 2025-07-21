@@ -1,0 +1,217 @@
+{
+  "title": {
+    "text": {
+      "headline": "Personaggi della divina commedia",
+      "text": "Timeline dei personaggi citati nell'Inferno della Divina Commedia, con due ere simboliche per entità mitologiche e primordiali."
+    }
+  },
+  "eras": [
+    {
+      "start_date": {
+        "year": -10000
+      },
+      "end_date": {
+        "year": -5000
+      },
+      "text": {
+        "headline": "Era Primordiale",
+        "text": "Simbolica collocazione per entità eterne (es. Lucifero)."
+      }
+    },
+    {
+      "start_date": {
+        "year": -5000
+      },
+      "end_date": {
+        "year": -1000
+      },
+      "text": {
+        "headline": "Era Mitologica",
+        "text": "Simbolica collocazione per figure della mitologia classica (Achille, Ulisse, Minosse, Cerbero)."
+      }
+    }
+  ],
+  "events": [
+    {
+      "start_date": {
+        "year": -2000
+      },
+      "end_date": {
+        "year_end": -1000
+      },
+      "text": {
+        "headline": "Achille",
+        "text": "Eroe greco della guerra di Troia, figlio di Peleo e Teti. Conosciuto per il suo valore e il tallone vulnerabile. Citazione: “Achille romeo” (Inferno VIII, v. 38). <a href='https://it.wikipedia.org/wiki/Achille_(mitologia)' target='_blank'>Approfondisci</a>"
+      },
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/The_Vision_of_Hell_%28Inferno%29_MET_DP106349.jpg",
+        "caption": "Gustave Doré – illustrazione classica"
+      },
+      "condizioneMorale": "ira (superbia guerriera)",
+      "canto": "XXVI"
+    },
+    {
+      "start_date": {
+        "year": 1246
+      },
+      "end_date": {
+        "year": 1285
+      },
+      "text": {
+        "headline": "Paolo",
+        "text": "Paolo Malatesta, nobile riminese, amante di Francesca. Inferno V: “Amor, ch’a nullo amato amar perdona…” (vv. 100–105). <a href='https://it.wikipedia.org/wiki/Paolo_Malatesta' target='_blank'>Approfondisci</a>"
+      },
+      "group": "Inferno",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/1/10/Paolo_and_Francesca.jpg",
+        "caption": "Ary Scheffer – “Francesca e Paolo”"
+      },
+      "condizioneMorale": "lussuria"
+    },
+    {
+      "start_date": {
+        "year": 1255
+      },
+      "end_date": {
+        "year": 1285
+      },
+      "text": {
+        "headline": "Francesca",
+        "text": "Francesca da Rimini, vittima di passione adultera con Paolo. Inferno V: “Noi leggiavamo un giorno…” (vv. 100–102). <a href='https://it.wikipedia.org/wiki/Francesca_da_Rimini' target='_blank'>Approfondisci</a>"
+      },
+      "group": "Purgatorio",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/1/10/Paolo_and_Francesca.jpg",
+        "caption": "Ary Scheffer – “Francesca e Paolo”"
+      },
+      "condizioneMorale": "lussuria"
+    },
+    {
+      "start_date": {
+        "year": -10000
+      },
+      "end_date": {
+        "year": -9000
+      },
+      "text": {
+        "headline": "Lucifero",
+        "text": "Lucifero, re dell’Inferno, intrappolato nella Giudecca. Inferno XXXIV: descritto con tre teste e ali che generano venti sotterranei (vv. 1–54). <a href='https://it.wikipedia.org/wiki/Lucifero_(Divina_Commedia)' target='_blank'>Approfondisci</a>"
+      },
+      "group": "Inferno",
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Gustave_Dor%C3%A9_-_Inferno",
+        "caption": "Gustave Doré – illustrazione di Lucifero"
+      },
+      "condizioneMorale": "tradimento / superbia"
+    },
+    {
+      "start_date": {
+        "year": 1220
+      },
+      "end_date": {
+        "year": 1294
+      },
+      "text": {
+        "headline": "Brunetto Latini",
+        "text": "Maestro e mentore di Dante, incontrato tra i sodomiti. Inferno XV: “Siete voi, ser Brunetto?” (vv. 22–23). <a href='https://it.wikipedia.org/wiki/Brunetto_Latini' target='_blank'>Approfondisci</a>"
+      },
+      "group": "Inferno",
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Gustave_Dor%C3%A9_-_Inferno",
+        "caption": "Doré – illustrazione dei sodomiti"
+      },
+      "condizioneMorale": "sodomia (peccato morale)"
+    },
+    {
+      "start_date": {
+        "year": -2000
+      },
+      "end_date": {
+        "year": -1000
+      },
+      "text": {
+        "headline": "Cerbero",
+        "text": "Il cane infernale a tre teste, guardiano dei golosi (III cerchio). Inferno VI: descritto con catene e ululati bestiali. <a href='https://it.wikipedia.org/wiki/Cerbero' target='_blank'>Approfondisci</a>"
+      },
+      "group": "Inferno",
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Gustave_Dor%C3%A9_-_Inferno",
+        "caption": "Doré – illustrazione di Cerbero"
+      },
+      "condizioneMorale": "gola (voracità)"
+    },
+    {
+      "start_date": {
+        "year": 1212
+      },
+      "end_date": {
+        "year": 1264
+      },
+      "text": {
+        "headline": "Farinata degli Uberti",
+        "text": "Capo ghibellino e fiorentino orgoglioso, tra gli eretici (Inferno X). Dice con fierezza: “Non far trumpa la città mia” (vv. 82–84). <a href='https://it.wikipedia.org/wiki/Farinata_degli_Uberti' target='_blank'>Approfondisci</a>"
+      },
+      "group": "Inferno",
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Gustave_Dor%C3%A9_-_Inferno",
+        "caption": "Doré – illustrazione di Farinata"
+      },
+      "condizioneMorale": "eresia / orgoglio"
+    },
+    {
+      "start_date": {
+        "year": 1220
+      },
+      "end_date": {
+        "year": 1289
+      },
+      "text": {
+        "headline": "Ugolino della Gherardesca",
+        "text": "Conte pisano imprigionato con i figli nella Torre della Muda e lasciato morire di fame. Inferno XXXIII: “…colare i miei cani?” <a href='https://it.wikipedia.org/wiki/Ugolino_della_Gherardesca' target='_blank'>Approfondisci</a>"
+      },
+      "group": "Paradiso",
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Gustave_Dor%C3%A9_-_Inferno",
+        "caption": "Doré – illustrazione di Ugolino"
+      },
+      "condizioneMorale": "tradimento / crudeltà"
+    },
+    {
+      "start_date": {
+        "year": -2000
+      },
+      "end_date": {
+        "year": -1000
+      },
+      "text": {
+        "headline": "Ulisse",
+        "text": "Eroe dell’Odissea, collocato tra i consiglieri fraudolenti (Inferno XXVI). Citazione: “affaticar l’alto mare”. <a href='https://it.wikipedia.org/wiki/Ulisse' target='_blank'>Approfondisci</a>"
+      },
+      "group": "Inferno",
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Gustave_Dor%C3%A9_-_Inferno",
+        "caption": "Doré – illustrazione di Ulisse"
+      },
+      "condizioneMorale": "frode (consigliere fraudolento)"
+    },
+    {
+      "start_date": {
+        "year": -3000
+      },
+      "end_date": {
+        "year": -2000
+      },
+      "text": {
+        "headline": "Minosse",
+        "text": "Giudice infernale del II cerchio. Inferno V: “Com’è quando l’ombra… Minòs s’aggira”. <a href='https://it.wikipedia.org/wiki/Minosse' target='_blank'>Approfondisci</a>"
+      },
+      "group": "Inferno",
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Category:Gustave_Dor%C3%A9_-_Inferno",
+        "caption": "Doré – illustrazione di Minosse"
+      },
+      "condizioneMorale": "giudizio / condanna"
+    }
+  ]
+}
